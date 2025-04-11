@@ -12,7 +12,9 @@ const Footer = () => {
               <Wallet className="h-8 w-8 text-indigo-400" />
               <span className="text-xl font-bold">Budget Buddy</span>
             </div>
-
+            <p className="text-gray-400">
+              Your ultimate companion for smart financial decisions during college life.
+            </p>
           </div>
           
           <div>
